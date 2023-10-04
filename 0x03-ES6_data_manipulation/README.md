@@ -2,9 +2,9 @@
 
 ## Learning Objectives
 
-* How to use map, filter and reduce on arrays
-* Typed arrays
-* The Set, Map, and Weak link data structures
+- How to use map, filter and reduce on arrays
+- Typed arrays
+- The Set, Map, and Weak link data structures
 
 ## Set Up
 
@@ -18,6 +18,7 @@ sudo apt install nodejs -y
 ```
 
 ### Install Jest, Babel, and ESLint
+
 ```
 (in the project directory)
 * Install Jest using: npm install --save-dev jest
@@ -27,8 +28,8 @@ sudo apt install nodejs -y
 
 ## Configuration files
 
-* package.json
-* babel.config.js
-* .eslintrc.js
+- package.json
+- babel.config.js
+- .eslintrc.js
 
 In the project directory run npm install when you have package.json
